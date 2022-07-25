@@ -1,4 +1,5 @@
 {
+    "homepage": "/Dnsflare",
     "scripts": {
         "dev": "cross-env NODE_ENV=development ts-node builder/dev.ts",
         "build": "cross-env NODE_ENV=production ts-node builder/release.ts",
